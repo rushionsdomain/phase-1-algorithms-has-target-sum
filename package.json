@@ -12,5 +12,10 @@
     "chai": "^4.3.4",
     "mocha": "^6.2.3",
     "mocha-multi": "^1.1.3"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "keywords": []
 }
